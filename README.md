@@ -40,12 +40,15 @@
 ## 🖼️ UI Screenshots
 
 ### 🏠 Home Page  
-![Home](App/static/images/screenshots/home.png)
+![Home](home1.png)
+![Home](hom2.png)
+![Home](home3.png)
 
 ---
 
 ### 🛒 Product Listings  
-![Product Listings](App/static/images/screenshots/products.png)
+![Product Listings](product.png)
+![Product Listings](chkout.png)
 
 ---
 
