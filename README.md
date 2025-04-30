@@ -31,7 +31,7 @@
 
 **🔗 Video Presentation**: [Watch here](https://drive.google.com/file/d/1MQIH08FtFYHb0uPxfO7mjJyKYmUjZ4pb/view?usp=sharing)
 
----
+---Deployedment certificate:https://drive.google.com/drive/folders/1xGqihfyNFvqLKw8WMHdypQcQG9WXlnTg?usp=sharing
 
 ## 📄 Project Resources
 
