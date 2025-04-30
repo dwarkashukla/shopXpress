@@ -32,7 +32,7 @@
 **🔗 Video Presentation**: [Watch here](https://drive.google.com/file/d/1MQIH08FtFYHb0uPxfO7mjJyKYmUjZ4pb/view?usp=sharing)
 
 ---Deployedment certificate:https://drive.google.com/drive/folders/1xGqihfyNFvqLKw8WMHdypQcQG9WXlnTg?usp=sharing
-
+ppt : https://drive.google.com/drive/folders/1SczZGn4iNU8fZlWuaTPL5FPQCZi6-Krf?usp=sharing
 ## 📄 Project Resources
 
 - **📑 Report**: [Project Report (Google Doc)](https://docs.google.com/document/d/1N0hOc7tITM6NJ-0n0rmNnKxT3tz2Zlnm/edit?usp=drive_link&ouid=110297507664336986665&rtpof=true&sd=true)
